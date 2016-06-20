@@ -1,0 +1,10 @@
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\SeleniumLib.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\SeleniumLib.pdb
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\WebDriver.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\WebDriver.Support.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\WebDriver.xml
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\bin\Debug\WebDriver.Support.xml
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\obj\Debug\SeleniumLib.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLib\obj\Debug\SeleniumLib.pdb

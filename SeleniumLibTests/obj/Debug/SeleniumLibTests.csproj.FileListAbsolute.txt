@@ -1,0 +1,13 @@
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\SeleniumLibTests.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\SeleniumLibTests.pdb
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\SeleniumLib.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\WebDriver.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\WebDriver.Support.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\SeleniumLib.pdb
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\WebDriver.xml
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\bin\Debug\WebDriver.Support.xml
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\obj\Debug\SeleniumLibTests.csprojResolveAssemblyReference.cache
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\obj\Debug\SeleniumLibTests.dll
+C:\Users\jordan.silva\Documents\Visual Studio 2015\Projects\Selenium\SeleniumLibTests\obj\Debug\SeleniumLibTests.pdb
